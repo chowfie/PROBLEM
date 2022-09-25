@@ -1,6 +1,6 @@
-#Configuración git
+# Configuración git
 
-##Claves SSH
+## Claves SSH
 
 Para generar las claves ssh utilizo el comando: *ssh-keygen*, que genera los archivos id_rsa e id_rsa.pub donde se guardan la clave privada y la pública.
 
