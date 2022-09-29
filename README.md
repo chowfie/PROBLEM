@@ -1,15 +1,17 @@
-# VisitasOptimas
+# HorariosSinIncompatibilidades
 
 ## Descripción del problema a resolver
 
-Un problema con el que tenemos que lidiar todos a la hora de hacer turismo cultural es evitar en lo posible las colas, la abundancia de gente y poder disfrutar de una visita agrable al monumento o museo. La complejidad de este problema se basa en que por mucho que madruguemos para realizar la primera parada, a lo largo del dia terminamos coincidiendo con gran afluencia de gente que nos realentizan las visitas e incluso nos hacen llegar a nuestros últimos destinos cuando estos ya están cerrados. 
+Un problema con el que nos encontramos la mayoría de los estudiantes a la hora de matricularnos es crear un horario sin incompatibilidades debido a la mezcla de asignaturas que llevamos. Nos lleva bastante tiempo el tener que ir comparando horas, asignaturas y grupos para conseguir un horario que nos cuadre.
 
 ## Solución
 
-Con este proyecto lo que pretendemos es realizar una aplicación que optimice nuestro tiempo real, facilitando al usuario seleccionar los monumentos a visitar en ese día y calculándole una ruta óptima según la afluencia de gente, duración estimada de la visita y horario de estos. 
+Con este proyecto buscamos solucionar ese problema creando una aplicación que genere todos los horarios posibles sin incompatibilidades según las asignaturas que el usuario quiera cursar. Este sólo tendrá que insertar las asignaturas que quiera y a partir de ahí se le mostrarán todos los horarios posibles, pudiendo seleccionar el que le venga mejor.
 
-Los datos para calcular estos itinerarios podrían conseguirse a través de la indicación sobre las afluencias y horarios que nos ofrece Google y conseguir la estimación de visita de la propia página web de cada lugar elegido.
+## Lógica de negocio
+
+La principal lógica de negocio de este problema es la extracción de datos de los horarios proporcionados por las universidades. Es decir, estos vienen dados normalmente en PDF, por lo que sería necesario o encontrar universidades que te los proporcionen en tablas excel o CVS, o crear nuestras propias tablas de excel a partir de los horarios a usar. Una vez tengamos esos archivos habrá que ir extrayendo datos de estos, como horas, asignaturas y su duración, para después poder usarla en el algoritmo de scheduling.
 
 ## Configuración GIT.
 
-Archivo con las configuraciones del repositorio: [configuraciones](Objetivo0/configuraciones.md).
+Archivo con las configuraciones del repositorio: [configuraciones](https://github.com/chowfie/PROBLEM/blob/main/Objetivo0/configuraciones.md).
