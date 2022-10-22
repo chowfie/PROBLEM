@@ -10,7 +10,7 @@ Con este proyecto buscamos solucionar ese problema creando una aplicación que g
 
 ## Lógica de negocio
 
-La principal lógica de negocio de este problema es la extracción de datos de los horarios proporcionados por las universidades. Es decir, estos vienen dados normalmente en PDF, por lo que sería necesario o encontrar universidades que te los proporcionen en tablas excel o CVS, o crear nuestras propias tablas de excel a partir de los horarios a usar. Una vez tengamos esos archivos habrá que ir extrayendo datos de estos, como horas, asignaturas y su duración, para después poder usarla en el algoritmo de scheduling.
+La principal lógica de negocio de este problema es la extracción de datos de los horarios proporcionados por las universidades. Es decir, estos vienen dados normalmente en PDF, por lo que sería necesario o encontrar universidades que te los proporcionen en tablas excel o CSV, o crear nuestras propias tablas de excel a partir de los horarios a usar. Una vez tengamos esos archivos habrá que ir extrayendo datos de estos, como horas, asignaturas y su duración, para después poder usarla en el algoritmo de scheduling.
 
 ## Configuración GIT.
 
