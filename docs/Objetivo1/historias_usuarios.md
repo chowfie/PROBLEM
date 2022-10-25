@@ -1,6 +1,6 @@
 # Historias de Usuario
 
-## [HU0] 
+## [HU1] 
    Maria Elena quiere que la aplicación le muestre los posibles horarios que podría tener con las asignaturas que le quedaron de primero y las nuevas de      segundo.
    
 ## [HU2] 
