@@ -14,7 +14,7 @@ La principal lógica de negocio de este problema es la extracción de datos de l
 
 ## Configuración GIT.
 
-Archivo con las configuraciones del repositorio: [configuraciones](https://github.com/chowfie/PROBLEM/blob/main/Objetivo0/configuraciones.md).
+Archivo con las configuraciones del repositorio: [configuraciones](https://github.com/chowfie/PROBLEM/blob/main/docs/Objetivo0/configuraciones.md)
 
 ## Docuentación adicional
 
