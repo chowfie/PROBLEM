@@ -1,13 +1,15 @@
 # Milestones
 
-## [M1] Estructura de datos
+## [M0] Fichero que contiene el modelo del problema.
 
-Creación de una estructura de datos que nos sirva para almacenar los datos de los horarios, como horas, duración, asignaturas y cursos.
+El objetivo de este milestone será obtener un fichero que contenga una estructura que modelice los horarios de la universidad, incluyendo horas, asignaturas, cursos, duración y grupo.
 
-## [M2] Obtención de datos
+## [M1] Implementación de lógica de negocio
 
-Debemos hacer un algoritmo que nos recoja la información de los horarios ofrecidos por la universidad.
+Diseño e implementación de un sistema que nos permita extraer la información sobre los horarios que están disponibles en las páginas web de la universidad y almacenarlos en su estructura de datos correspondiente.
 
-## [M3] Algoritmo para horarios
+## [M2] Código de clase/módulo para calcular los horarios
 
-Desarrollaremos un algoritmo que según las asignaturas que indiquen nuestros usuarios, generará posibles horarios sin incompatibilidades entre estas.
+Una vez tengamos la forma de la obtención de datos y su estructura, desarrollaremos el código para el cálculo de horarios sin incompatibilidades, según las asignaturas que se indiquen.
+
+
