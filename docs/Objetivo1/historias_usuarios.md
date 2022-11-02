@@ -1,10 +1,9 @@
 # Historias de Usuario
 
 ## [HU001] 
-   Maria Elena quiere que la aplicación le muestre los posibles horarios que podría tener con las asignaturas que le quedaron de primero y las nuevas de      segundo.
+   Carlos necesita los datos de los horarios de Ingeniería Informática para poder añadirlos a esta aplicación y así desarrollar el algoritmo de scheduling
+   final.
    
 ## [HU002] 
-   Pablo quiere un horario en el que pueda combinar por lo menos 10 asignaturas que no le convalidaron en un año.
-   
-## [HU003] 
-   Reyes quiere crear un horario con las posibles asignatruas que podría coger según las restricciones de su horario y los cursos que quiera cursar.
+   Lucía quiere que se le generen todos los horarios posibles con las asignaturas que le quedaron de primero, más las nuevas que va a comenzar de segundo, 
+   de manera que no haya incompatibilidades entre ellas.
