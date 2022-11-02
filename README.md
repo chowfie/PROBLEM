@@ -14,4 +14,10 @@ La principal lógica de negocio de este problema es la extracción de datos de l
 
 ## Configuración GIT.
 
-Archivo con las configuraciones del repositorio: [configuraciones](https://github.com/chowfie/PROBLEM/blob/main/Objetivo0/configuraciones.md).
+Archivo con las configuraciones del repositorio: [configuraciones](https://github.com/chowfie/PROBLEM/blob/main/docs/Objetivo0/configuraciones.md)
+
+## Documentación HU y Milestones
+
+- [Personas](https://github.com/chowfie/PROBLEM/blob/Objetivo-1-IV-22-23%5D/docs/Objetivo1/personas.md)
+- [Historias de Usuario](https://github.com/chowfie/PROBLEM/blob/Objetivo-1-IV-22-23%5D/docs/Objetivo1/historias_usuarios.md)
+- [Milestones](https://github.com/chowfie/PROBLEM/blob/Objetivo-1-IV-22-23%5D/docs/Objetivo1/milestones.md)
