@@ -1,12 +1,12 @@
 # Milestones
 
-## [M0] Fichero que contiene el modelo del problema.
+## [M0] Modelo del problema
 
-El objetivo de este milestone será obtener un fichero que contenga una estructura que modelice los horarios de la universidad, incluyendo horas, asignaturas, cursos, duración y grupo.
+Creación de un fichero o ficheros que plasmen el modelo del problema, con las estructuras de datos necesarias y básicas para la extracción de datos de los horarios como horas, duración, asignatura, curso y año.
 
-## [M1] Implementación de lógica de negocio
+## [M1] Código de clase/módulo para extraer información
 
-Diseño e implementación de un sistema que nos permita extraer la información sobre los horarios que están disponibles en las páginas web de la universidad y almacenarlos en su estructura de datos correspondiente.
+Una vez hayamos entendido el problema y creado las estructuras en las que almacenaremos los datos, debemos desarrollar una clase/módulo con el que podamos extraer las estructuras de los horarios.
 
 ## [M2] Código de clase/módulo para calcular los horarios
 
