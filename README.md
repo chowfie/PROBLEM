@@ -18,6 +18,6 @@ Archivo con las configuraciones del repositorio: [configuraciones](https://githu
 
 ## Documentación HU y Milestones
 
-- [Personas](https://github.com/chowfie/PROBLEM/blob/Objetivo-1-IV-22-23%5D/docs/Objetivo1/personas.md)
-- [Historias de Usuario](https://github.com/chowfie/PROBLEM/blob/Objetivo-1-IV-22-23%5D/docs/Objetivo1/historias_usuarios.md)
-- [Milestones](https://github.com/chowfie/PROBLEM/blob/Objetivo-1-IV-22-23%5D/docs/Objetivo1/milestones.md)
+- [Personas](https://github.com/chowfie/PROBLEM/blob/main/docs/personas.md)
+- [Historias de Usuario](https://github.com/chowfie/PROBLEM/blob/main/docs/historias_usuarios.md)
+- [Milestones](https://github.com/chowfie/PROBLEM/blob/main/docs/milestones.md)
